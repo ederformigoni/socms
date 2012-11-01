@@ -1,0 +1,15 @@
+﻿SOCMS is like the name says: simple and open.
+
+01/11/2012 -- The simple coding begins...
+
+The purpose of this project is to develop a piece of code (a bundle of php files) that can be easily
+used and understood by the most ignoble coder in the world.
+
+The system has 3 fundamental principles:
+1) It will use only one database table. Maybe more but only if completely inevitable.
+2) It will have a minimum set of files and folders.
+3) It will bring stuff from major web sites (comments from social networks, images from file hosting
+services, videos from video-sharing websites, and so on) and for this sole reason it may use external
+SDKs, APIs, or other appropriate resource.
+
+That's it for now.
